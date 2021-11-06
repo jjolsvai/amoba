@@ -2,6 +2,18 @@
 
 ### Szia Jozsi! A hetfo esti alkotasunkat itt talalod. 
 
+```text
+    0      1     2
+  ╔═════╤═════╤═════╗
+0 ║  O  │     │     ║
+  ╟─────┼─────┼─────╢
+1 ║     │     │     ║
+  ╟─────┼─────┼─────╢
+2 ║     │     │     ║
+  ╚═════╧═════╧═════╝
+X jatekos, sor koordinata:
+```
+
 ### Amiket utolag megvaltoztattam: 
 1. Kijavitottam a tablat, hogy jol nezzen ki.
 2. Hozzaadtam a clear screent, ami csak akkor mukodik szepen, 
